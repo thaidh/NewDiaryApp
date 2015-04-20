@@ -143,8 +143,7 @@ public class ComposeActivity extends Activity {
                                 int end = matcher.end();
                                 int value = Integer.parseInt(matcher.group(1));
 
-//                                posToFind = (posToFind + end) < editTable.length() ? (posToFind + end) : editTable.length();
-                                posToFind = end < editTable.length() ? end : editTable.length();
+                                posToFind = end < (editTable.length()-1) ? end : (editTable.length()-1);
 
                                 editTable.setSpan(createImageSpan(value), start, end, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE);
                             }
