@@ -34,7 +34,6 @@ public class DiaryListActivity extends Activity {
         lvDiary = (ListView) findViewById(R.id.lvDiary);
     }
 
-//comment testaaaaaa
     @Override
     protected void onResume() {
         super.onResume();
