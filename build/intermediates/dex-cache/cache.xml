@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android-workspace\NewDiary\app\build\intermediates\exploded-aar\NewDiary\newQuickAction\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="30b41025d49a7f2b8a1f4f0adf2eb915c2065d0a">
+        <dex dex="D:\android-workspace\NewDiary\app\build\intermediates\pre-dexed\debug\classes-4e773742abbc43367874c0c6a1869cdb74d68d5d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\android-workspace\NewDiary\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-4dc8c76414496c4087844cfefce4a9d0756a0219.jar" />
+    </item>
+    <item
+        jar="D:\android-workspace\NewDiary\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\android-workspace\NewDiary\app\build\intermediates\pre-dexed\debug\classes-c1b15224bd7fc16630a88034c7f1a3e927767c77.jar" />
+    </item>
+    <item
+        jar="D:\android-workspace\NewDiary\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\android-workspace\NewDiary\app\build\intermediates\pre-dexed\debug\classes-9e129bd2448d9919d863d12a2c26b01d47c6ac8e.jar" />
+    </item>
+    <item
+        jar="D:\android-workspace\NewDiary\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\android-workspace\NewDiary\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-d773b47a62e59a1fff904c9ed8542f617b8b2066.jar" />
+    </item>
+
+</items>

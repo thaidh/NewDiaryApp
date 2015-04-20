@@ -73,4 +73,4 @@
         android:layout_below="@id/footer"
         android:src="@drawable/quickaction_arrow_down" />
 
-</RelativeLayout><!-- From: file:/C:/Users/Thai/SkyDrive/AndroidDev/WonderfulApp/MyApplication/newQuickAction/src/main/res/layout/quickaction.xml -->
+</RelativeLayout><!-- From: file:/D:/android-workspace/NewDiary/newQuickAction/src/main/res/layout/quickaction.xml -->

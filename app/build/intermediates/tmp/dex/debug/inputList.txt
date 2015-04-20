@@ -1,0 +1,6 @@
+D:\android-workspace\NewDiary\app\build\intermediates\classes\debug
+D:\android-workspace\NewDiary\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-4dc8c76414496c4087844cfefce4a9d0756a0219.jar
+D:\android-workspace\NewDiary\app\build\intermediates\pre-dexed\debug\classes-4e773742abbc43367874c0c6a1869cdb74d68d5d.jar
+D:\android-workspace\NewDiary\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-d773b47a62e59a1fff904c9ed8542f617b8b2066.jar
+D:\android-workspace\NewDiary\app\build\intermediates\pre-dexed\debug\classes-9e129bd2448d9919d863d12a2c26b01d47c6ac8e.jar
+D:\android-workspace\NewDiary\app\build\intermediates\pre-dexed\debug\classes-c1b15224bd7fc16630a88034c7f1a3e927767c77.jar

@@ -11,4 +11,4 @@
 		android:fromAlpha="0.0" android:toAlpha="1.0"
 		android:duration="@android:integer/config_shortAnimTime"
 	/>
-</set><!-- From: file:/C:/Users/Thai/SkyDrive/AndroidDev/WonderfulApp/MyApplication/newQuickAction/src/main/res/anim/grow_from_topright_to_bottomleft.xml -->
+</set><!-- From: file:/D:/android-workspace/NewDiary/newQuickAction/src/main/res/anim/grow_from_topright_to_bottomleft.xml -->
